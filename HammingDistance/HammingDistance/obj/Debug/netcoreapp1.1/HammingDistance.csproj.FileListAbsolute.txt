@@ -1,0 +1,9 @@
+C:\Users\DC.VelvetPersona\Documents\GitProjects\1337Code-CSharp\HammingDistance\HammingDistance\bin\Debug\netcoreapp1.1\HammingDistance.deps.json
+C:\Users\DC.VelvetPersona\Documents\GitProjects\1337Code-CSharp\HammingDistance\HammingDistance\bin\Debug\netcoreapp1.1\HammingDistance.runtimeconfig.json
+C:\Users\DC.VelvetPersona\Documents\GitProjects\1337Code-CSharp\HammingDistance\HammingDistance\bin\Debug\netcoreapp1.1\HammingDistance.runtimeconfig.dev.json
+C:\Users\DC.VelvetPersona\Documents\GitProjects\1337Code-CSharp\HammingDistance\HammingDistance\obj\Debug\netcoreapp1.1\HammingDistance.csprojResolveAssemblyReference.cache
+C:\Users\DC.VelvetPersona\Documents\GitProjects\1337Code-CSharp\HammingDistance\HammingDistance\obj\Debug\netcoreapp1.1\HammingDistance.AssemblyInfo.cs
+C:\Users\DC.VelvetPersona\Documents\GitProjects\1337Code-CSharp\HammingDistance\HammingDistance\bin\Debug\netcoreapp1.1\HammingDistance.dll
+C:\Users\DC.VelvetPersona\Documents\GitProjects\1337Code-CSharp\HammingDistance\HammingDistance\bin\Debug\netcoreapp1.1\HammingDistance.pdb
+C:\Users\DC.VelvetPersona\Documents\GitProjects\1337Code-CSharp\HammingDistance\HammingDistance\obj\Debug\netcoreapp1.1\HammingDistance.dll
+C:\Users\DC.VelvetPersona\Documents\GitProjects\1337Code-CSharp\HammingDistance\HammingDistance\obj\Debug\netcoreapp1.1\HammingDistance.pdb
